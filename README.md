@@ -2,11 +2,11 @@
 
 <h1 align="center">Fernando Nascimento</h1>
 <p align="center"><b>Software Engineering Student | Web & Backend Learner | Building Real Projects</b></p>
-
 ```diff
 + Estudante de Engenharia de Software
 + Construindo projetos práticos
-+ Evoluindo em C# e Java
++ Evoluindo em C#, JavaScript e backend
+
 
 <p align="center">
   <a href="https://github.com/Nanu317">
