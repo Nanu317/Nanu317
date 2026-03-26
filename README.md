@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58a6ff&section=header"/>
 
 <h1 align="center">Fernando Rehder Batista Do Nascimento</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=1000&lines=Nanu317;Software+Engineering+Student;Backend+and+Web+Developer;Building+real+projects;Always+learning)](https://git.io/typing-svg)
 <p align="center">
   <b>Software Engineering Student | Backend & Web Developer in Progress</b>
 </p>
