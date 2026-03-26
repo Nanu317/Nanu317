@@ -2,12 +2,12 @@
 
 <h1 align="center">Fernando Nascimento</h1>
 <p align="center"><b>Software Engineering Student | Web & Backend Learner | Building Real Projects</b></p>
+
 ```diff
 + Estudante de Engenharia de Software
 + Construindo projetos práticos
 + Evoluindo em C#, JavaScript e backend
-
-
+```
 <p align="center">
   <a href="https://github.com/Nanu317">
     <img src="https://img.shields.io/github/followers/Nanu317?style=for-the-badge&logo=github&label=Followers" />
@@ -36,6 +36,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lógica%20de%20Programação-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/POO-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend%20Básico-0d1117?style=for-the-badge" />
