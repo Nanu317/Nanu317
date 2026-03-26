@@ -40,11 +40,9 @@
 </p>
 
 ### 💡 Also experienced with:
-- Excel (data organization & budgeting)
-- Word
+
 - Photoshop
 - CapCut / Sony Vegas
-- SQL & MySQL
 
 ---
 
