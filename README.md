@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58a6ff&section=header"/>
 
-<h1 align="center">Fernando R. B. Nascimento</h1>
+<h1 align="center">Fernando Rehder Batista Do Nascimento</h1>
 <p align="center"><b>Software Engineering Student | Web & Backend Learner | Building Real Projects</b></p>
 
 ```diff
