@@ -3,6 +3,11 @@
 <h1 align="center">Fernando Nascimento</h1>
 <p align="center"><b>Software Engineering Student | Web & Backend Learner | Building Real Projects</b></p>
 
+```diff
++ Estudante de Engenharia de Software
++ Construindo projetos práticos
++ Evoluindo em C# e Java
+
 <p align="center">
   <a href="https://github.com/Nanu317">
     <img src="https://img.shields.io/github/followers/Nanu317?style=for-the-badge&logo=github&label=Followers" />
