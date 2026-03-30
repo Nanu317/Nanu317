@@ -46,19 +46,6 @@
 
 ---
 
-## 💼 Experience
-
-### Bela Arte Móveis — Administrative Assistant
-
-- Managed and tracked internal projects  
-- Organized inventory and operational processes  
-- Controlled financial flow and records  
-- Assisted customers and handled budgeting  
-
-💡 **Impact:** Improved organization and efficiency of internal processes
-
----
-
 ## 📚 Education
 
 - 🎓 Software Engineering — UNIFAE  
@@ -71,14 +58,6 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nanu317&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanu317&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nanu317&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
