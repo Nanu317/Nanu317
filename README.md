@@ -64,7 +64,7 @@
 
 ## 🧩 Featured Projects
 
-🚧 (Updating soon with real projects)
+🚧 (Update in progress)
 
 👉 MDF Calculator (C#) [Open Repository](https://github.com/Nanu317/CalcularMDF)
 
