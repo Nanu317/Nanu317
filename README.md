@@ -69,6 +69,7 @@
 👉 MDF Calculator (C#) [Open Repository](https://github.com/Nanu317/CalcularMDF)
 
 👉 Custom Furniture Website [Open Web](https://belaartemoveis.com/)
+
 👉 Programming Logic Projects  
 
 ---
