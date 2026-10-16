@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering student (5th semester)
+- 🎓 Software Engineering student (6th semester)
 - 💻 Focused on **Backend Development and Problem Solving**
 - 🏢 Experience in a business environment (projects, finance, clients)
 - 📍 Brazil
@@ -62,6 +62,23 @@
 
 ---
 
+---
+
+## 🚀 Learning & Community
+
+<p align="center">
+  <a href="https://app.rocketseat.com.br/rocketid/fernando-rehder-batista-do-nascimento-03508" target="_blank">
+    <img src="https://img.shields.io/badge/Rocketseat-My%20Rocket%20ID-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white" alt="Rocketseat ID" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Continuously learning, building projects, and developing my skills in software engineering.</i>
+</p>
+
+---
+
+
 ## 🧩 Featured Projects
 
 🚧 (Update in progress)
@@ -88,7 +105,10 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fernando-rehder-batista-do-nascimento653155386">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Nascimento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://app.rocketseat.com.br/rocketid/fernando-rehder-batista-do-nascimento-03508">
+    <img src="https://img.shields.io/badge/Rocketseat-My%20Rocket%20ID-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white" />
   </a>
 </p>
 
